@@ -46,7 +46,7 @@ Beyond work, I'm a music enthusiast and advocate for a balanced, healthy lifesty
     3D modeling
     UI design
 
-🔭 I’m currently working on a web fitness tracker with NuxtJS, MongoDB, and SCSS (it will be made public in the future)
+🔭 I’m currently working on some personal projects, to improve my knowledge in Vue/Nuxt and React Native.
 
 🌱 I’m currently improving my knowledge of VueJS and SCSS.
 
