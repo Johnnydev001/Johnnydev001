@@ -1,54 +1,43 @@
-# Hi there, I'm João Saraiva 👋
+# Hi there, my name is João Saraiva 👋
 
 ## Description
 
-I'm a full-stack developer living in the beautiful countryside of Portugal. 
+I'm a full-stack developer, living in the beautiful countryside of Portugal. 
+I'm someone who is always looking for opportunities to learn and not afraid of challenges.
+Frontend development is my favourite field of work. I thrive to create efficient and captivating user experiences.
 
-I started my career as a backend developer and I've been specializing in full-stack development. 
+I'm used to collaborative environments, where the team must have a common goal, share constructive feedback and evolve as a whole.
 
-I love creative and captivating experiences.
-I'm passionate about what I do, always looking for new challenges and learning opportunities. I love to work in a collaborative environment.
+Beyond work, I'm a music enthusiast and advocate for a balanced, healthy lifestyle. I love to travel and discover new cultures and their history. 
 
-Beyond work, I'm a music enthusiast and advocate for a balanced, healthy lifestyle. I love to travel and learn about new cultures. I do my best to enjoy life as much as possible.
+I do my best to enjoy life as much as possible.
 
 ## Main skills:
 
-  ### Languages/Libraries/Frameworks:
+  React (NextJS, AstroJS) / Vue / Angular, Node JS
+  Typescript
+  Adobe Experience Manager
+  Three JS
+  Redux
+  SCSS
+  GraphQL
+  Java
+  Python
+  Docker
+  Azure DevOps
+  
+  Unit and integration testing (Jest, Storybook, React Testing Library)
+  Micro-service architectures
+  Web components
+  State management
+  Responsive design
+  Progressive web applications (PWA)
+  Web performance and SEO
+  Semantic and accessible HTML
+  3D modeling
+  UI design
 
-    React
-    Vue
-    Angular
-    Typescript
-    NodeJS
-    NextJS, NuxtJS and AstroJS
-    Adobe Experience Manager
-    Three JS
-    Redux
-    CSS (SCSS)
-    GraphQL
-    Kotlin
-    Docker
-
-  ### Architectures/Patterns/Solutions:
-
-    Micro-services/frontend architectures
-    Web components
-    State management (Redux)
-    Responsive design
-    Unit testing and regression testing
-    Progressive web applications (PWA)
-    Web performance and SEO
-    Semantic HTML
-    Accessibility (a11y)
-    Internationalization (i18n)
-    Role-based authentication
-    Functional components
-    3D modeling
-    UI design
-
-🔭 I’m currently working on some personal projects, to improve my knowledge in Vue/Nuxt and React Native.
-
-🌱 I’m currently improving my knowledge of VueJS and SCSS.
+🔭 Currently finishing some personal learning projects with NextJS, GraphQL, NodeJS and SCSS
 
 👯 I’m looking to collaborate on open-source projects of any nature.
 
