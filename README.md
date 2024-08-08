@@ -14,28 +14,28 @@ I do my best to enjoy life as much as possible.
 
 ## Main skills:
 
-  React (NextJS, AstroJS) / Vue / Angular, Node JS
-  Typescript
-  Adobe Experience Manager
-  Three JS
-  Redux
-  SCSS
-  GraphQL
-  Java
-  Python
-  Docker
-  Azure DevOps
+    React (NextJS, AstroJS) / Vue / Angular, Node JS
+    Typescript
+    Adobe Experience Manager
+    Three JS
+    Redux
+    SCSS
+    GraphQL
+    Java
+    Python
+    Docker
+    Azure DevOps
   
-  Unit and integration testing (Jest, Storybook, React Testing Library)
-  Micro-service architectures
-  Web components
-  State management
-  Responsive design
-  Progressive web applications (PWA)
-  Web performance and SEO
-  Semantic and accessible HTML
-  3D modeling
-  UI design
+    Unit and integration testing (Jest, Storybook, React Testing Library)
+    Micro-service architectures
+    Web components
+    State management
+    Responsive design
+    Progressive web applications (PWA)
+    Web performance and SEO
+    Semantic and accessible HTML
+    3D modeling
+    UI design
 
 🔭 Currently finishing some personal learning projects with NextJS, GraphQL, NodeJS and SCSS
 
