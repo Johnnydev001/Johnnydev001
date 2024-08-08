@@ -8,7 +8,11 @@ Frontend development is my favourite field of work. I thrive to create efficient
 
 I'm used to collaborative environments, where the team must have a common goal, share constructive feedback and evolve as a whole.
 
-Beyond work, I'm a music enthusiast and advocate for a balanced, healthy lifestyle. I love to travel and discover new cultures and their history. 
+Beyond work I'm a:
+    
+    Music enthusiast 
+    Advocate for a balanced and healthy lifestyle. 
+    Traveler and discoverer of new culture and history
 
 I do my best to enjoy life as much as possible.
 
@@ -37,7 +41,13 @@ I do my best to enjoy life as much as possible.
     3D modeling
     UI design
 
-🔭 Currently finishing some personal learning projects with NextJS, GraphQL, NodeJS and SCSS
+    English
+    French
+    Spanish
+    Portuguese
+    German 
+
+🔭 I'm currently finishing some personal learning projects with NextJS, GraphQL, NodeJS and SCSS
 
 👯 I’m looking to collaborate on open-source projects of any nature.
 
