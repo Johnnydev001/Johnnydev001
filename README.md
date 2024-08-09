@@ -13,7 +13,7 @@ In my opinion, a team must have a common goal, share constructive feedback and e
 Beyond my job, I regularly use some of my free time to develop my skills, either by working on small projects or reading documentation.
 I’m passionate about life.
 
-## 🔭 Main skills
+## Main skills
 
 The things I love the most are: 
 
@@ -63,15 +63,18 @@ I’m currently learning German and I’m already capable of having a normal con
 
 ## Contact
 
-Please also visit my social media: 
+Please visit my social media: 
 
-[Professional Web Portfolio](https://joao-saraiva-dev.netlify.app/)
-[LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-saraiva-ab662b197/)
-[Twitter](https://x.com/JohnnySaraiva00)
+### [Professional Web Portfolio](https://joao-saraiva-dev.netlify.app/)
 
-🔭 I'm currently finishing some personal learning projects with NextJS, GraphQL, NodeJS and SCSS
+### [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-saraiva-ab662b197/)
+### [Twitter](https://x.com/JohnnySaraiva00)
 
-👯 I’m looking to collaborate on open-source projects of any nature.
+## Notes
+
+I'm currently finishing some personal learning projects with NextJS, GraphQL, NodeJS and SCSS
+
+I’m looking to collaborate on open-source projects of any nature.
 
 Sincerely,
 João Saraiva
