@@ -15,18 +15,6 @@ I’m passionate about life.
 
 ## Main skills
 
-The things I love the most are: 
-
-    Traveling, admiring landscapes and trying different kinds of food
-    Learning new languages
-    Listening to music
-    Do all kinds of sports
-    Gardening / bricolage
-    Spending time with my family and friends.
-
-I love productive and cultural conversations. 
-When I have the opportunity, I attend cultural events like music concerts, go to museums or visit exhibitions.
-
 Here are the tools I use the most:
     
     React , Vue, Angular
@@ -56,10 +44,23 @@ Other skills that might be of interest:
     UI Design (Figma)
     3D modeling (Blender)
 
-
 My native language is Portuguese.
 I can also speak fluent English, French and Spanish.
 I’m currently learning German and I’m already capable of having a normal conversation.
+
+## Additional information
+
+The things I love the most are: 
+
+    Traveling, admiring landscapes and trying different kinds of food
+    Learning new languages
+    Listening to music
+    Do all kinds of sports
+    Gardening / bricolage
+    Spending time with my family and friends.
+
+I love productive and cultural conversations. 
+When I have the opportunity, I attend cultural events like music concerts, go to museums or visit exhibitions.
 
 ## Contact
 
