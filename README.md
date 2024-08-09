@@ -8,7 +8,7 @@ I’m currently working at Diconium (Lisbon, Portugal), as a frontend developer.
 With almost 5 years of experience, I had the opportunity to work with a vast number of technologies, which made me more responsible and capable of delivering good quality software.
 
 I’m dedicated and not afraid of new challenges. I thrive to become a better professional and working with experienced team members gives me lots of joy. 
-In my opinion, a team must have a common goal, share constructive feedback and evolve.
+In my opinion, a team must have a common goal, share constructive feedback and evolve together.
 
 Beyond my job, I regularly use some of my free time to develop my skills, either by working on small projects or reading documentation.
 I’m passionate about life.
