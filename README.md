@@ -1,4 +1,4 @@
-# Hi there, my name is João Saraiva 👋
+# Hi there, I'm João Saraiva 👋
 
 ##  Description
 
