@@ -75,6 +75,3 @@ Please visit my social media:
 I'm currently finishing some personal learning projects with NextJS, GraphQL, NodeJS and SCSS
 
 I’m looking to collaborate on open-source projects of any nature.
-
-Sincerely,
-João Saraiva
