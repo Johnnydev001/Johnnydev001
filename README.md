@@ -17,7 +17,7 @@ I’m passionate about life.
 
 Here are the tools I use the most:
     
-    React , Vue, Angular
+    React, Vue, Angular
     NodeJS
     Typescript
     Three JS
