@@ -32,30 +32,29 @@ Here are the tools I use the most:
 
 Other skills that might be of interest:
 
-    -	Semantic and accessible HTML
-    -	Progressive web applications
-    -	Web responsiveness
-    -	SEO
-    -	DevOps
-    -	State management (Redux)
-    -	Web components
-    -	UI Design (Figma)
-    -	3D modeling (Blender)
+    - Semantic and accessible HTML
+    - Progressive web applications
+    - Web responsiveness
+    - SEO
+    - DevOps
+    - State management (Redux)
+    - Web components
+    - UI Design (Figma)
+    - 3D modeling (Blender)
     
 My native language is Portuguese.
-I can also speak fluent English, French and Spanish.
-I’m currently learning German and I’m already capable of having a normal conversation.
+I can also speak fluent English, French, Spanish and German.
 
 ## Additional information
 
 The things I love the most are: 
 
-    Traveling, admiring landscapes and trying different kinds of food
-    Learning new languages
-    Listening to music
-    Do all kinds of sports
-    Gardening / bricolage
-    Spending time with my family and friends.
+    - Traveling, admiring landscapes and trying different kinds of food
+    - Learning new languages
+    - Listening to music
+    - Do all kinds of sports
+    - Gardening / bricolage
+    - Spending time with my family and friends.
 
 I love productive and cultural conversations. 
 When I have the opportunity, I attend cultural events like music concerts, go to museums or visit exhibitions.
