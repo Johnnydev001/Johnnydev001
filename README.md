@@ -1,4 +1,4 @@
-# Hi there, I'm João Saraiva 👋
+# Hi, I'm João Saraiva 👋
 
 ##  Description
 
@@ -17,32 +17,32 @@ I’m passionate about life.
 
 Here are the tools I use the most:
     
-    React, Vue, Angular
-    NodeJS
-    Typescript
-    Three JS
-    SCSS
-    Tailwind CSS
-    Redux
-    Adobe Experience Manager
-    Java
-    Python
-    GraphQL
-    Azure DevOps
-    Kubernetes
-    Docker
+    - React, Angular, Vue
+    - NextJS and NuxtJS
+    - NodeJS
+    - ThreeJS
+    - Dotnet C#
+    - Redux
+    - CSS (SCSS and Tailwind CSS)
+    - Azure, Github & Gitlab CI/CD and Docker
+    - SQL and NoSQL
+    - Adobe Experience Manager
+    - Java 
+    - Python
 
 Other skills that might be of interest:
 
-    Semantic and accessible HTML
-    Progressive Web Applications
-    Responsiveness
-    SEO, performance on the web
-    DevOps
-    State management (Redux)
-    Web components
-    UI Design (Figma)
-    3D modeling (Blender)
+    -	Semantic and accessible HTML
+    -	Progressive web applications
+    -	Web responsiveness
+    -	SEO
+    -	DevOps
+    -	State management (Redux)
+    -	Web components
+    -	UI Design (Figma)
+    -	3D modeling (Blender)
+![image](https://github.com/user-attachments/assets/53f9a14b-8f63-4f17-a47f-5642d7bc7666)
+
 
 My native language is Portuguese.
 I can also speak fluent English, French and Spanish.
@@ -73,6 +73,6 @@ Please visit my social media:
 
 ## Notes
 
-I'm currently finishing some personal learning projects with NextJS, GraphQL, NodeJS and SCSS
+I'm currently finishing some personal learning projects with NuxtJS, Dotnet C# and Azure.
 
 I’m looking to collaborate on open-source projects of any nature.
