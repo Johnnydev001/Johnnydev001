@@ -41,9 +41,7 @@ Other skills that might be of interest:
     -	Web components
     -	UI Design (Figma)
     -	3D modeling (Blender)
-![image](https://github.com/user-attachments/assets/53f9a14b-8f63-4f17-a47f-5642d7bc7666)
-
-
+    
 My native language is Portuguese.
 I can also speak fluent English, French and Spanish.
 I’m currently learning German and I’m already capable of having a normal conversation.
