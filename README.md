@@ -61,7 +61,7 @@ I'm a firm believer in a balanced lifestyle. Outside of coding, you'll find me:
 ## Notes
 
 Just finished two new projects: 
-- [Weather Forecast App](https://github.com/Johnnydev001/weather-forecast) built with NuxtJS, Dotnet C# and Github Actions.
+- [Weather Forecast App](https://github.com/Johnnydev001/weather-forecast) built with NuxtJS, Typescript, Dotnet C# and Github Actions.
 - [Monorepo Turborepo Template](https://github.com/Johnnydev001/mono-repo-turbo-template) built with React, Svelte and Turborepo.
 
 Currently working on a full-stack project to learn more about React Typescript, Spring Boot with Kotlin and Azure DevOps.
