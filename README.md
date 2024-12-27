@@ -14,34 +14,34 @@ Here's a glimpse into my toolbox:
 
 **Frontend Frameworks & Libraries:**
 
-* **React** 
-* **Angular** 
-* **Vue.js** 
+* **React**
+* * **Vue.js** 
 * **Typescript** 
+* **Angular** 
 * **Next.js & Nuxt.js**
 * **Three.js**
-* **CSS (SCSS & Tailwind CSS)** 
+* **CSS (SCSS & Tailwind CSS)**
+* **Adobe Experience Manager (AEM)**
+* **Redux**
 
 **Backend Technologies:**
 
 * **Node.js**
-* **Kotlin**
 * **.NET C#**
+* **Spring Boot / Kotlin**
 * **SQL & NoSQL Databases** 
-* **Adobe Experience Manager (AEM)** 
 * **Python** 
-* **Redux**
 
 **DevOps:**
 
 * **Azure, GitHub & GitLab CI/CD**
-* **Docker** 
-
+* **Docker**
 
 **Additional Skills & Interests:**
-
+* **Machine learning**
+* **Natural Language Processing**
 * **Semantic & Accessible HTML**
-* **Progressive Web Apps (PWAs)**
+* **Progressive Web Apps**
 * **Web Responsiveness**
 * **UI Design (Figma)** 
 * **3D Modeling (Blender)**
@@ -60,11 +60,10 @@ I'm a firm believer in a balanced lifestyle. Outside of coding, you'll find me:
 
 ## Notes
 
-Just finished two new projects: 
+Just finished three new projects: 
 - [Weather Forecast App](https://github.com/Johnnydev001/weather-forecast) built with NuxtJS, Typescript, Dotnet C# and Github Actions.
 - [Monorepo Turborepo Template](https://github.com/Johnnydev001/mono-repo-turbo-template) built with React, Svelte and Turborepo.
 - [Dr. André Yee's Portfolio](https://drandreyee.com/) built with React, Tailwind CSS and Netlify.
-
 
 Currently working on a full-stack project to learn more about React Typescript, Spring Boot with Kotlin and Azure DevOps.
 
