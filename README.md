@@ -52,7 +52,7 @@ Here's a glimpse into my toolbox:
 I'm a firm believer in a balanced lifestyle. Outside of coding, you'll find me:
 
 * **Traveling**
-* **Learning Languages** (I'm fluent in Portuguese (native), English, French, Spanish, and currently learning German).
+* **Learning Languages** (I'm fluent in Portuguese (native), English, French, and Spanish, and I am currently learning German).
 * **Listening to Music**
 * **Doing Sports**
 * **Gardening & DIY Projects**
@@ -63,9 +63,11 @@ I'm a firm believer in a balanced lifestyle. Outside of coding, you'll find me:
 Just finished three new projects: 
 - [Weather Forecast App](https://github.com/Johnnydev001/weather-forecast) built with NuxtJS, Typescript, Dotnet C# and Github Actions.
 - [Monorepo Turborepo Template](https://github.com/Johnnydev001/mono-repo-turbo-template) built with React, Svelte and Turborepo.
-- [Dr. André Yee's Portfolio](https://drandreyee.com/) built with React, Tailwind CSS and Netlify.
+- [Dr. André Yee's Portfolio](https://drandreyee.com/) is built with React, Tailwind CSS, and Netlify.
 
-Currently working on a full-stack project to learn more about React Typescript, Spring Boot with Kotlin and Azure DevOps.
+Currently working on two new projects:
+- A to-do list application integrating a React Typescript frontend with a Springboot(Kotlin) backend. The database is MongoDB NoSQL / Azure CosmosDB. Authentication and deployment are done with Azure: DevOps pipelines, authentication, monitoring, etc (for learning purposes).
+- A 3D web project with NextJS, Tailwind CSS, Strapi CMS, and GraphQL.
 
 ## Let's Connect!
 
