@@ -15,7 +15,7 @@ Here's a glimpse into my toolbox:
 **Frontend Frameworks & Libraries:**
 
 * **React**
-* * **Vue.js** 
+* **Vue.js** 
 * **Typescript** 
 * **Angular** 
 * **Next.js & Nuxt.js**
