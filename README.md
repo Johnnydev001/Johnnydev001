@@ -1,4 +1,4 @@
-# Hi, I'm João Saraiva 👋
+# Hi👋
 
 I'm a passionate full-stack developer nestled in the beautiful Portuguese countryside, where I blend the tranquility of nature with the dynamic world of software development. I thrive on building high-quality, user-centric digital experiences.
 
@@ -14,60 +14,63 @@ Here's a glimpse into my toolbox:
 
 **Frontend Frameworks & Libraries:**
 
-* **React**
-* **Vue.js** 
-* **Typescript** 
-* **Angular** 
-* **Next.js & Nuxt.js**
-* **Three.js**
-* **CSS (SCSS & Tailwind CSS)**
-* **Adobe Experience Manager (AEM)**
-* **Redux**
+* React (Next.js)
+* Vue.js (Nuxt.js)
+* Typescript
+* Angular
+* Three.js
+* CSS, SCSS & Tailwind CSS
+* Adobe Experience Manager (AEM)
+* Redux
 
 **Backend Technologies:**
 
-* **Node.js**
-* **.NET C#**
-* **Spring Boot / Kotlin**
-* **SQL & NoSQL Databases** 
-* **Python** 
+* Node.js
+* .NET C#
+* Spring Boot (Java and Kotlin)
+* SQL & NoSQL Databases
+* Python
 
 **DevOps:**
 
-* **Azure, GitHub & GitLab CI/CD**
-* **Docker**
+* Azure
+* GitHub
+* GitLab CI/CD
+* Docker
+* Kubernetes
 
 **Additional Skills & Interests:**
-* **Machine learning**
-* **Natural Language Processing**
-* **Semantic & Accessible HTML**
-* **Progressive Web Apps**
-* **Web Responsiveness**
-* **UI Design (Figma)** 
-* **3D Modeling (Blender)**
-* **Electronic Music Production** 
+* Machine learning
+* Natural Language Processing
+* Semantic & Accessible HTML
+* Progressive Web Apps
+* UI Design (Figma)
+* 3D Modeling (Blender)
+* Electronic Music Production
 
 ## Beyond the Code
 
 I'm a firm believer in a balanced lifestyle. Outside of coding, you'll find me:
 
-* **Traveling**
-* **Learning Languages** (I'm fluent in Portuguese (native), English, French, and Spanish, and I am currently learning German).
-* **Listening to Music**
-* **Doing Sports**
-* **Gardening & DIY Projects**
-* **Spending time with loved ones**
+* Traveling
+* Learning Languages (I'm fluent in Portuguese (native), English, French, and Spanish, and I am currently learning German).
+* Listening to Music
+* Doing Sports
+* Gardening & DIY Projects
+* Spending time with loved ones
 
 ## Notes
 
-Just finished three new projects: 
+Recently finished four new projects: 
+- [To-do list application](https://github.com/Johnnydev001/to-do-list-azure) built with React, Typescript, Springboot Kotlin, Docker, Azure.
 - [Weather Forecast App](https://github.com/Johnnydev001/weather-forecast) built with NuxtJS, Typescript, Dotnet C# and Github Actions.
 - [Monorepo Turborepo Template](https://github.com/Johnnydev001/mono-repo-turbo-template) built with React, Svelte and Turborepo.
 - [Dr. André Yee's Portfolio](https://drandreyee.com/) is built with React, Tailwind CSS, and Netlify.
 
 Currently working on two new projects:
-- A to-do list application integrating a React Typescript frontend with a Springboot(Kotlin) backend. The database is MongoDB NoSQL / Azure CosmosDB. Authentication and deployment are done with Azure: DevOps pipelines, authentication, monitoring, etc (for learning purposes).
-- A 3D web project with NextJS, Tailwind CSS, Strapi CMS, and GraphQL.
+- A professional masseuse web portfolio with Wix Editor
+- An osteopathy and physiotherapy specialist web portfolio with Wix Editor
+- A music maker application with NextJS, GraphQ,L and AWS (for learning purposes).
 
 ## Let's Connect!
 
