@@ -48,7 +48,7 @@ Here's a glimpse into my toolbox:
 * 3D Modeling (Blender)
 * Electronic Music Production
 
-## Beyond the Code
+## Beyond code
 
 I'm a firm believer in a balanced lifestyle. Outside of coding, you'll find me:
 
