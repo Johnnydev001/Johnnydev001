@@ -17,6 +17,7 @@ Here's a glimpse into my toolbox:
 * React (Next.js)
 * Vue.js (Nuxt.js)
 * Typescript
+* Astro JS
 * Angular
 * Three.js
 * CSS, SCSS & Tailwind CSS
