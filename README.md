@@ -21,8 +21,12 @@ Here's a glimpse into my toolbox:
 * Angular
 * Three.js
 * CSS, SCSS & Tailwind CSS
-* Adobe Experience Manager (AEM)
 * Redux
+
+**CMS:**
+
+* Adobe Experience Manager (AEM)
+* Contentstack
 
 **Backend Technologies:**
 
