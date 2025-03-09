@@ -38,7 +38,7 @@ Here's a glimpse into my toolbox:
 
 **DevOps:**
 
-* Azure
+* Azure Certified
 * GitHub
 * GitLab CI/CD
 * Docker
