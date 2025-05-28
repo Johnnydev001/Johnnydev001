@@ -66,16 +66,11 @@ I'm a firm believer in a balanced lifestyle. Outside of coding, you'll find me:
 
 ## Notes
 
-Recently finished four new projects: 
-- [To-do list application](https://github.com/Johnnydev001/to-do-list-azure) built with React, Typescript, Springboot Kotlin, Docker, Azure.
-- [Weather Forecast App](https://github.com/Johnnydev001/weather-forecast) built with NuxtJS, Typescript, Dotnet C# and Github Actions.
-- [Monorepo Turborepo Template](https://github.com/Johnnydev001/mono-repo-turbo-template) built with React, Svelte and Turborepo.
-- [Dr. André Yee's Portfolio](https://drandreyee.com/) is built with React, Tailwind CSS, and Netlify.
+Recently finished 2 new client projects: 
+- [Romeu Januário's Portfolio](https://romeujanuariotherapy.com/) built with React, Tailwind CSS, and Netlify.
+- [Marina Araújo's Portfolio](https://marinaraujofisio.com/) built with React, Tailwind CSS, and Netlify.
 
-Currently working on two new projects:
-- A professional masseuse web portfolio with Wix Editor
-- An osteopathy and physiotherapy specialist web portfolio with Wix Editor
-- A music maker application with NextJS, GraphQ,L and AWS (for learning purposes).
+Currently learning for another Azure certification.
 
 ## Let's Connect!
 
