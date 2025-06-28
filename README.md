@@ -4,7 +4,7 @@ I'm a passionate full-stack developer nestled in the beautiful Portuguese countr
 
 ## Experience
 
-With nearly 5 years of experience and currently working at Diconium (Lisbon, Portugal) as a Fullstack Developer, I've had the privilege of working with a diverse range of technologies, honing my skills in delivering robust and scalable software solutions. This experience has instilled in me a strong sense of responsibility and a commitment to quality craftsmanship.
+With around 6 years of experience and currently working at Diconium (Lisbon, Portugal) as a Fullstack Developer, I've had the privilege of working with a diverse range of technologies, honing my skills in delivering robust and scalable software solutions. This experience has instilled in me a strong sense of responsibility and a commitment to quality craftsmanship.
 
 My core focus lies in creating engaging and performant front-end applications, but my full-stack background allows me to understand and contribute to the entire development lifecycle. I'm always looking for new challenges and enjoy collaborating with experienced teams, believing that shared goals and constructive feedback are the foundation of collective growth.
 
@@ -14,8 +14,8 @@ Here's a glimpse into my toolbox:
 
 **Frontend Frameworks & Libraries:**
 
-* React (Next.js)
-* Vue.js (Nuxt.js)
+* React/Next.js
+* Vue.js/Nuxt.js
 * Typescript
 * Astro JS
 * Angular
@@ -26,23 +26,22 @@ Here's a glimpse into my toolbox:
 **CMS:**
 
 * Adobe Experience Manager (AEM)
-* Contentstack
+* Contentstack (Certified)
 
 **Backend Technologies:**
 
 * Node.js
 * .NET C#
-* Spring Boot (Java and Kotlin)
-* SQL & NoSQL Databases
+* Spring Boot
+* SQL/NoSQL
 * Python
 
 **DevOps:**
 
-* Azure Certified
+* Azure (Certified)
 * GitHub
-* GitLab CI/CD
+* Jenkins
 * Docker
-* Kubernetes
 
 **Additional Skills & Interests:**
 * Machine learning
