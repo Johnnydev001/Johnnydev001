@@ -26,7 +26,7 @@ Here's a glimpse into my toolbox:
 **CMS:**
 
 * Adobe Experience Manager (AEM)
-* Contentstack (Certified)
+* Contentstack (Certified with **Contentstack Implementation Certification**)
 
 **Backend Technologies:**
 
@@ -38,7 +38,7 @@ Here's a glimpse into my toolbox:
 
 **DevOps:**
 
-* Azure (Certified)
+* Azure (Certified with **AZ-900** and **AZ-204**)
 * GitHub
 * Jenkins
 * Docker
@@ -65,11 +65,15 @@ I'm a firm believer in a balanced lifestyle. Outside of coding, you'll find me:
 
 ## Notes
 
-Recently finished 2 new client projects: 
+Recently acquired 3 certifications and finished 2 client projects: 
 - [Romeu Januário's Portfolio](https://romeujanuariotherapy.com/) built with React, Tailwind CSS, and Netlify.
 - [Marina Araújo's Portfolio](https://marinaraujofisio.com/) built with React, Tailwind CSS, and Netlify.
 
-Currently learning for another Azure certification.
+- Azure Fundamentals (AZ-900)
+- Azure Developer Associate (AZ-204)
+- Contentstack Implementation Certification
+
+Currently working on a Google Cloud Developer certification.
 
 ## Let's Connect!
 
