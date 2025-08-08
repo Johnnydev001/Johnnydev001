@@ -73,7 +73,7 @@ Recently acquired 3 certifications and finished 2 client projects:
 - Azure Developer Associate (AZ-204)
 - Contentstack Implementation Certification
 
-Currently working on a Google Cloud Developer certification.
+Currently working on a new Google Cloud Certification.
 
 ## Let's Connect!
 
