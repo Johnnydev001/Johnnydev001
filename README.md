@@ -66,12 +66,12 @@ I'm a firm believer in a balanced lifestyle. Outside of coding, you'll find me:
 ## Notes
 
 Recently acquired 3 certifications and finished 2 client projects: 
-- [Romeu Januário's Portfolio](https://romeujanuariotherapy.com/) built with React, Tailwind CSS, and Netlify.
-- [Marina Araújo's Portfolio](https://marinaraujofisio.com/) built with React, Tailwind CSS, and Netlify.
-
 - Azure Fundamentals (AZ-900)
 - Azure Developer Associate (AZ-204)
 - Contentstack Implementation Certification
+
+- [Romeu Januário's Portfolio](https://romeujanuariotherapy.com/) built with React, Tailwind CSS, and Netlify.
+- [Marina Araújo's Portfolio](https://marinaraujofisio.com/) built with React, Tailwind CSS, and Netlify.
 
 Currently working on a new Google Cloud Certification.
 
