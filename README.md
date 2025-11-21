@@ -39,6 +39,7 @@ Here's a glimpse into my toolbox:
 **DevOps:**
 
 * Azure (Certified with **AZ-900** and **AZ-204**)
+* AWS
 * GitHub
 * Jenkins
 * Docker
