@@ -85,3 +85,5 @@ Please visit my social media:
 - [Professional Web Portfolio](https://joao-saraiva-dev.netlify.app/)
 - [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-saraiva-ab662b197/)
 - [Twitter](https://x.com/JohnnySaraiva00)
+
+Profile views: ![](https://komarev.com/ghpvc/?username=Johnnydev001)
