@@ -64,7 +64,7 @@ I'm a firm believer in a balanced lifestyle. Outside of coding, you'll find me:
 * Gardening & DIY Projects
 * Spending time with loved ones
 
-## Notes
+## Recent work
 
 Recently acquired 3 certifications and finished 2 client projects: 
 - Azure Fundamentals (AZ-900)
@@ -74,7 +74,7 @@ Recently acquired 3 certifications and finished 2 client projects:
 - [Romeu Januário's Portfolio](https://romeujanuariotherapy.com/) built with React, Tailwind CSS, and Netlify.
 - [Marina Araújo's Portfolio](https://marinaraujofisio.com/) built with React, Tailwind CSS, and Netlify.
 
-Currently working on a new Google Cloud Certification.
+Currently learning for a new AWS Certification.
 
 ## Let's Connect!
 
@@ -86,4 +86,4 @@ Please visit my social media:
 - [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-saraiva-ab662b197/)
 - [Twitter](https://x.com/JohnnySaraiva00)
 
-Profile views: ![](https://komarev.com/ghpvc/?username=Johnnydev001)
+![](https://komarev.com/ghpvc/?username=Johnnydev001)
