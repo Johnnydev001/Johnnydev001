@@ -66,7 +66,8 @@ I'm a firm believer in a balanced lifestyle. Outside of coding, you'll find me:
 
 ## Recent work
 
-Recently acquired 3 certifications and finished 2 client projects: 
+Recently acquired 4 certifications and finished 2 client projects: 
+- AWS Developer Associate (DVA-C02)
 - Azure Fundamentals (AZ-900)
 - Azure Developer Associate (AZ-204)
 - Contentstack Implementation Certification
